@@ -1,0 +1,11 @@
+untracked
+new files that git does not track
+modified
+changed in the existing files
+staged
+that is in the staging area and basically it is added now in git but not yet commited.
+these are ready to commit.
+unchanged
+unchanged ...everything sorted.
+
+these are all my terms to be remind.
